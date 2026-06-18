@@ -1,1 +1,1 @@
-# autoresearch-everyything
+# autoresearch-everything
